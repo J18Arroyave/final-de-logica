@@ -6,17 +6,16 @@ este es el repositorio para el trabajo final
 
 ### Integrantes
 
--Jeronimo Arroyave
+-Jeronimo Arroyave 
 
--Juan Manuel Chica
+-Juan Manuel Chica 
 
-### Enlaces
+### Enlaces 
 
-- [Guia de markdown]_(https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
+- [Guia de markdown]
 
 ### Emoji 
 😄
 🎵
 
 ### Imagen
-
