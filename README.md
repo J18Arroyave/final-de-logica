@@ -10,3 +10,7 @@ este es el repositorio para el trabajo final
 -Juan Manuel Chica
 
 ### Enlaces
+
+### Emoji 
+😄
+🎵
