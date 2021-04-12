@@ -6,7 +6,8 @@ este es el repositorio para el trabajo final
 
 ### Integrantes
 
--Jeronimo Arroyave 
+-Jeronimo Arroyave
+
 -Juan Manuel Chica
 
 ### Enlaces
