@@ -15,5 +15,8 @@ En este repositorio se hara la creacion de una aplicacion de musica teniendo enc
 
 ## imagen 
 
+![foto1](https://user-images.githubusercontent.com/77746451/118870291-fe484680-b8ab-11eb-99b9-51ea4fce2811.jpg)
+
+
 
 
