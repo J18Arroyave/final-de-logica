@@ -130,5 +130,6 @@ import  java.util.Random ;
         Sistema . fuera . println ( " 4. Salir del juego. " );
         centinela =  ConsoleInput . getInt ();		
     } mientras (centinela ! = 4 );
+		
 }
 }
